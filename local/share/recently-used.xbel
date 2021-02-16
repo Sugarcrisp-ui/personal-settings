@@ -913,12 +913,12 @@ file:///home/brett/Documents/linux/arcolinux/my-arcolinux-install-process-vbox, 
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/brett/Github/personal-settings" added="2021-02-14T07:26:26.711939Z" modified="2021-02-16T08:46:50.284150Z" visited="2021-02-14T07:26:26.711939Z">
+  <bookmark href="file:///home/brett/Github/personal-settings" added="2021-02-14T07:26:26.711939Z" modified="2021-02-16T08:58:11.570442Z" visited="2021-02-14T07:26:26.711939Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="github-desktop" exec="&apos;github-desktop %u&apos;" modified="2021-02-16T08:46:50.284149Z" count="6"/>
+          <bookmark:application name="github-desktop" exec="&apos;github-desktop %u&apos;" modified="2021-02-16T08:58:11.570440Z" count="7"/>
           <bookmark:application name="grsync" exec="&apos;grsync %u&apos;" modified="2021-02-16T06:26:55.479379Z" count="1"/>
         </bookmark:applications>
       </metadata>
