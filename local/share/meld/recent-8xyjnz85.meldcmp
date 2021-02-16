@@ -1,0 +1,4 @@
+[Comparison]
+type = Folder
+uris = file:///home/brett/.config;file:///etc/skel/.config
+

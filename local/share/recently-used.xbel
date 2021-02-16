@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/brett/DATA/xfce-config/README.md" added="2021-02-11T10:23:01Z" modified="2021-02-11T10:23:01Z" visited="2021-02-11T10:23:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-markdown"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-02-11T10:23:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/DATA/arco-xfce-brett/200-software-AUR-repo-v4.sh" added="2021-02-11T10:25:35Z" modified="2021-02-11T10:25:35Z" visited="2021-02-11T10:25:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-02-11T10:25:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/brett/Backup" added="2021-02-11T10:29:15Z" modified="2021-02-14T14:26:36.043691Z" visited="2021-02-11T10:29:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="grsync" exec="&apos;grsync %u&apos;" modified="2021-02-14T14:26:36.043690Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/.config" added="2021-02-11T10:29:49Z" modified="2021-02-16T06:40:35.130577Z" visited="2021-02-11T10:29:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="grsync" exec="&apos;grsync %u&apos;" modified="2021-02-16T06:40:35.130575Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Downloads/my_expressvpn_hong_kong_-_1_udp.ovpn" added="2021-02-11T10:44:36Z" modified="2021-02-11T10:45:10Z" visited="2021-02-11T10:44:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-02-11T10:44:36Z" count="1"/>
+          <bookmark:application name="nm-connection-editor" exec="&apos;nm-connection-editor %u&apos;" modified="2021-02-11T10:45:10Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents" added="2021-02-11T10:50:18Z" modified="2021-02-11T10:50:18Z" visited="2021-02-11T10:50:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="insync" exec="&apos;insync %u&apos;" modified="2021-02-11T10:50:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Desktop" added="2021-02-11T10:50:38Z" modified="2021-02-11T10:50:38Z" visited="2021-02-11T10:50:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="insync" exec="&apos;insync %u&apos;" modified="2021-02-11T10:50:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Pictures" added="2021-02-11T10:50:51Z" modified="2021-02-11T10:50:51Z" visited="2021-02-11T10:50:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="insync" exec="&apos;insync %u&apos;" modified="2021-02-11T10:50:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/.bin-personal" added="2021-02-11T10:53:18Z" modified="2021-02-16T06:31:03.974923Z" visited="2021-02-11T10:53:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="insync" exec="&apos;insync %u&apos;" modified="2021-02-11T10:53:18Z" count="1"/>
+          <bookmark:application name="grsync" exec="&apos;grsync %u&apos;" modified="2021-02-16T06:31:03.974922Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Athlean%20Training%20Camp" added="2021-02-11T10:53:31Z" modified="2021-02-11T10:53:31Z" visited="2021-02-11T10:53:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="insync" exec="&apos;insync %u&apos;" modified="2021-02-11T10:53:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Bretts_Recipes" added="2021-02-11T10:53:40Z" modified="2021-02-11T10:53:40Z" visited="2021-02-11T10:53:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="insync" exec="&apos;insync %u&apos;" modified="2021-02-11T10:53:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Calibre%20Library" added="2021-02-11T10:53:51Z" modified="2021-02-11T10:53:51Z" visited="2021-02-11T10:53:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="insync" exec="&apos;insync %u&apos;" modified="2021-02-11T10:53:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Trading" added="2021-02-11T10:54:04Z" modified="2021-02-11T10:54:04Z" visited="2021-02-11T10:54:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="insync" exec="&apos;insync %u&apos;" modified="2021-02-11T10:54:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Travel%20to%20Vietnam" added="2021-02-11T10:54:15Z" modified="2021-02-11T10:54:15Z" visited="2021-02-11T10:54:16.023833Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="insync" exec="&apos;insync %u&apos;" modified="2021-02-11T10:54:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/expressvpn%20conf%20files/my_expressvpn_usa_-_los_angeles_-_3_udp.ovpn" added="2021-02-11T11:01:05.744649Z" modified="2021-02-11T11:01:05.744652Z" visited="2021-02-11T11:01:05.744649Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="nm-connection-editor" exec="&apos;nm-connection-editor %u&apos;" modified="2021-02-11T11:01:05.744650Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/expressvpn%20conf%20files/my_expressvpn_canada_-_toronto_udp.ovpn" added="2021-02-11T11:01:59.050674Z" modified="2021-02-11T11:01:59.050678Z" visited="2021-02-11T11:01:59.050675Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="nm-connection-editor" exec="&apos;nm-connection-editor %u&apos;" modified="2021-02-11T11:01:59.050675Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/expressvpn%20conf%20files/my_expressvpn_singapore_-_jurong_udp.ovpn" added="2021-02-11T11:02:43.437766Z" modified="2021-02-11T11:02:43.437769Z" visited="2021-02-11T11:02:43.437766Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="nm-connection-editor" exec="&apos;nm-connection-editor %u&apos;" modified="2021-02-11T11:02:43.437767Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Downloads/expressvpn-3.5.0.33-1-x86_64.pkg.tar.xz" added="2021-02-11T11:14:57.067011Z" modified="2021-02-11T11:14:57.067016Z" visited="2021-02-11T11:14:57.067012Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-alpm-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-02-11T11:14:57.067014Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/expressvpn%20conf%20files/my_expressvpn_hong_kong_-_1_udp.ovpn" added="2021-02-11T11:22:50.304510Z" modified="2021-02-11T11:22:50.304519Z" visited="2021-02-11T11:22:50.304511Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="nm-connection-editor" exec="&apos;nm-connection-editor %u&apos;" modified="2021-02-11T11:22:50.304514Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Downloads/tws-latest-linux-x64.sh" added="2021-02-12T11:37:39.327987Z" modified="2021-02-12T11:37:39.327994Z" visited="2021-02-12T11:37:39.327988Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-02-12T11:37:39.327991Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/brett/USB%20STICK/brett/Appimages" added="2021-02-12T11:42:09.635171Z" modified="2021-02-12T11:42:09.635174Z" visited="2021-02-12T11:42:09.635171Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="grsync" exec="&apos;grsync %u&apos;" modified="2021-02-12T11:42:09.635172Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Appimages" added="2021-02-12T11:42:34.685277Z" modified="2021-02-12T11:42:34.685280Z" visited="2021-02-12T11:42:34.685278Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="grsync" exec="&apos;grsync %u&apos;" modified="2021-02-12T11:42:34.685279Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Github" added="2021-02-12T11:44:02.983341Z" modified="2021-02-12T11:44:02.983344Z" visited="2021-02-12T11:44:02.983341Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="grsync" exec="&apos;grsync %u&apos;" modified="2021-02-12T11:44:02.983342Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/brett/USB%20STICK/brett/VirtualBox%20VMs" added="2021-02-12T11:47:11.792305Z" modified="2021-02-13T07:07:53.474588Z" visited="2021-02-12T11:47:11.792306Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="grsync" exec="&apos;grsync %u&apos;" modified="2021-02-13T07:07:53.474583Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/brett/USB%20STICK/brett/Videos" added="2021-02-12T12:11:39.844462Z" modified="2021-02-12T12:11:39.844465Z" visited="2021-02-12T12:11:39.844463Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="grsync" exec="&apos;grsync %u&apos;" modified="2021-02-12T12:11:39.844464Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Videos" added="2021-02-12T12:11:57.660427Z" modified="2021-02-13T02:09:41.213055Z" visited="2021-02-12T12:11:57.660428Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="grsync" exec="&apos;grsync %u&apos;" modified="2021-02-12T12:11:57.660429Z" count="1"/>
+          <bookmark:application name="qbittorrent" exec="&apos;qbittorrent %u&apos;" modified="2021-02-13T02:09:41.213049Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Videos/tv/ncis" added="2021-02-12T13:41:00.383220Z" modified="2021-02-12T13:41:00.383224Z" visited="2021-02-12T13:41:00.383221Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="qbittorrent" exec="&apos;qbittorrent %u&apos;" modified="2021-02-12T13:41:00.383222Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/include/linux/input-event-codes.h" added="2021-02-12T14:17:41.357357Z" modified="2021-02-12T14:17:41.357360Z" visited="2021-02-12T14:17:41.357357Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-c++src"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2021-02-12T14:17:41.357359Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Github/arco-xfce-brett/100-display-manager-and-xfce-desktop.sh" added="2021-02-12T15:24:23.468549Z" modified="2021-02-12T15:27:56.331964Z" visited="2021-02-12T15:24:23.468551Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-12T15:27:56.331944Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Github/arco-xfce-brett/110-install-core-software-v3.sh" added="2021-02-12T15:24:42.392341Z" modified="2021-02-12T15:24:42.392369Z" visited="2021-02-12T15:24:42.392343Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-12T15:24:42.392355Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Github/arco-xfce-brett/Personal/666-uninstall-applications.sh" added="2021-02-12T15:29:01.140733Z" modified="2021-02-12T15:29:01.140742Z" visited="2021-02-12T15:29:01.140735Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-12T15:29:01.140738Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Github/arco-xfce-brett/200-software-AUR-repo-v4.sh" added="2021-02-12T15:33:26.379266Z" modified="2021-02-12T15:33:26.379286Z" visited="2021-02-12T15:33:26.379271Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-12T15:33:26.379280Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Github/startup-script/startup" added="2021-02-12T15:34:37.096488Z" modified="2021-02-12T15:34:37.096497Z" visited="2021-02-12T15:34:37.096490Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-12T15:34:37.096493Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Appimages/appimage-system-setup" added="2021-02-12T15:59:07.570728Z" modified="2021-02-12T15:59:07.570737Z" visited="2021-02-12T15:59:07.570729Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-12T15:59:07.570732Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Github/arco-xfce-brett" added="2021-02-12T16:04:39.572515Z" modified="2021-02-12T17:20:50.056398Z" visited="2021-02-12T16:04:39.572515Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="github-desktop" exec="&apos;github-desktop %u&apos;" modified="2021-02-12T17:20:50.056396Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/brett/USB%20STICK/brett/.ssh/authorized_keys" added="2021-02-12T16:21:32.037540Z" modified="2021-02-12T16:21:32.037544Z" visited="2021-02-12T16:21:32.037541Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-12T16:21:32.037542Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/.ssh/known_hosts" added="2021-02-12T16:22:25.546387Z" modified="2021-02-12T16:22:25.546414Z" visited="2021-02-12T16:22:25.546388Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-12T16:22:25.546397Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/.ssh/id_rsa.pub" added="2021-02-12T16:30:29.083251Z" modified="2021-02-12T16:30:29.083281Z" visited="2021-02-12T16:30:29.083259Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.ms-publisher"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-12T16:30:29.083267Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/desktop/README.md" added="2021-02-12T17:06:43.798288Z" modified="2021-02-12T17:06:43.798322Z" visited="2021-02-12T17:06:43.798295Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-12T17:06:43.798304Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Downloads/GitHubDesktop-linux-2.6.2-linux1.deb" added="2021-02-12T17:09:20.726589Z" modified="2021-02-12T17:09:20.726593Z" visited="2021-02-12T17:09:20.726590Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-02-12T17:09:20.726591Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Github/startup-script" added="2021-02-12T17:21:34.213780Z" modified="2021-02-12T17:21:34.213784Z" visited="2021-02-12T17:21:34.213781Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="github-desktop" exec="&apos;github-desktop %u&apos;" modified="2021-02-12T17:21:34.213782Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Github/xfce-config" added="2021-02-12T17:24:08.428689Z" modified="2021-02-14T07:13:38.694343Z" visited="2021-02-12T17:24:08.428689Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="github-desktop" exec="&apos;github-desktop %u&apos;" modified="2021-02-12T17:24:08.428690Z" count="1"/>
+          <bookmark:application name="grsync" exec="&apos;grsync %u&apos;" modified="2021-02-14T07:13:38.694341Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Videos/tv/All%20Rise/All.Rise.S02E07.HDTV.x264-PHOENiX.mkv" added="2021-02-13T01:16:05.422916Z" modified="2021-02-13T01:16:05.422928Z" visited="2021-02-13T01:16:05.422918Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;celluloid %U&apos;" modified="2021-02-13T01:16:05.422921Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/.bashrc-personal" added="2021-02-13T01:47:15.288357Z" modified="2021-02-13T02:57:37.693796Z" visited="2021-02-13T01:47:15.288358Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-13T02:57:37.693790Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/.bashrc" added="2021-02-13T01:47:27.815987Z" modified="2021-02-13T01:47:27.816011Z" visited="2021-02-13T01:47:27.815992Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-13T01:47:27.815998Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Videos/tv/All%20Rise" added="2021-02-13T02:09:07.834935Z" modified="2021-02-13T02:09:07.834939Z" visited="2021-02-13T02:09:07.834936Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="qbittorrent" exec="&apos;qbittorrent %u&apos;" modified="2021-02-13T02:09:07.834937Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///etc/NetworkManager/system-connections/my_expressvpn_hong_kong_-_1_udp.nmconnection" added="2021-02-13T02:16:59.131964Z" modified="2021-02-13T02:16:59.131993Z" visited="2021-02-13T02:16:59.131970Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;libreoffice --writer %U&apos;" modified="2021-02-13T02:16:59.131978Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/NetworkManager/NetworkManager.conf" added="2021-02-13T02:17:30.016644Z" modified="2021-02-13T02:17:30.016659Z" visited="2021-02-13T02:17:30.016650Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-13T02:17:30.016653Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="admin:///etc/NetworkManager/system-connections/brett_5G.nmconnection" added="2021-02-13T02:18:02.474600Z" modified="2021-02-13T02:18:06.691371Z" visited="2021-02-13T02:18:02.474602Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;gedit %U&apos;" modified="2021-02-13T02:18:02.474605Z" count="1"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2021-02-13T02:18:06.691369Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/.local/share/meld/recent-n8g2qmfj.meldcmp" added="2021-02-13T04:21:53.060981Z" modified="2021-02-13T04:21:53.060986Z" visited="2021-02-13T04:21:53.060982Z">
+    <title>.config-backup-2021.02.11-16.50.59 : .config-backup-2021.02.11-16.52.34</title>
+    <desc>Folder comparison
+file:///home/brett/.config-backup-2021.02.11-16.50.59, file:///home/brett/.config-backup-2021.02.11-16.52.34</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-meld-comparison"/>
+        <bookmark:applications>
+          <bookmark:application name="Meld" exec="&apos;/usr/bin/meld --comparison-file %u&apos;" modified="2021-02-13T04:21:53.060984Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/linux/arcolinux/back-key-in-thunar" added="2021-02-13T06:00:38.437953Z" modified="2021-02-13T06:00:38.437956Z" visited="2021-02-13T06:00:38.437953Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl3 %u&apos;" modified="2021-02-13T06:00:38.437954Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/VirtualBox%20VMs/Windows%2010/Windows%2010.vbox" added="2021-02-13T07:24:04.425975Z" modified="2021-02-13T07:24:04.425987Z" visited="2021-02-13T07:24:04.425977Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-virtualbox-vbox"/>
+        <bookmark:applications>
+          <bookmark:application name="VirtualBox" exec="&apos;VirtualBox %u&apos;" modified="2021-02-13T07:24:04.425981Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/VirtualBox%20VMs/Template%20Ubuntu/Template%20Ubuntu.vbox" added="2021-02-13T07:24:35.555831Z" modified="2021-02-13T07:24:35.555843Z" visited="2021-02-13T07:24:35.555832Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-virtualbox-vbox"/>
+        <bookmark:applications>
+          <bookmark:application name="VirtualBox" exec="&apos;VirtualBox %u&apos;" modified="2021-02-13T07:24:35.555837Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/VirtualBox%20VMs/AcrolinuxD%20startup%20script%20test%20Clone/AcrolinuxD%20startup%20script%20test%20Clone.vbox" added="2021-02-13T07:24:47.167735Z" modified="2021-02-13T07:24:47.167740Z" visited="2021-02-13T07:24:47.167736Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-virtualbox-vbox"/>
+        <bookmark:applications>
+          <bookmark:application name="VirtualBox" exec="&apos;VirtualBox %u&apos;" modified="2021-02-13T07:24:47.167737Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/VirtualBox%20VMs/AcrolinuxD%20Template/AcrolinuxD%20Template.vbox" added="2021-02-13T07:24:57.549598Z" modified="2021-02-13T07:24:57.549613Z" visited="2021-02-13T07:24:57.549600Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-virtualbox-vbox"/>
+        <bookmark:applications>
+          <bookmark:application name="VirtualBox" exec="&apos;VirtualBox %u&apos;" modified="2021-02-13T07:24:57.549605Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Downloads/Oracle_VM_VirtualBox_Extension_Pack-6.1.16.vbox-extpack" added="2021-02-13T07:34:19.215373Z" modified="2021-02-13T07:34:19.215378Z" visited="2021-02-13T07:34:19.215374Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-virtualbox-vbox-extpack"/>
+        <bookmark:applications>
+          <bookmark:application name="VirtualBox" exec="&apos;VirtualBox %u&apos;" modified="2021-02-13T07:34:19.215376Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Videos/tv/ncis%20los%20angeles/NCIS.Los.Angeles.S12E09.HDTV.x264-PHOENiX.mkv" added="2021-02-13T12:30:02.495766Z" modified="2021-02-13T12:30:02.495769Z" visited="2021-02-13T12:30:02.495767Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;celluloid %U&apos;" modified="2021-02-13T12:30:02.495768Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/linux/access-cron-file" added="2021-02-13T13:21:45.440575Z" modified="2021-02-13T13:21:45.440584Z" visited="2021-02-13T13:21:45.440578Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-13T13:21:45.440580Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/linux/How-to-Set-Up-a-shared-folder-using-Samba.pdf" added="2021-02-13T13:23:34.608722Z" modified="2021-02-13T13:23:38.604830Z" visited="2021-02-13T13:23:34.608724Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;libreoffice --draw %U&apos;" modified="2021-02-13T13:23:34.608731Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.1" exec="&apos;soffice %u&apos;" modified="2021-02-13T13:23:38.604829Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/linux/keyboard-bindings" added="2021-02-13T13:24:09.792435Z" modified="2021-02-13T13:24:09.792444Z" visited="2021-02-13T13:24:09.792436Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-13T13:24:09.792438Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/linux/qbittorrent-with-vpn-enabled.odt" added="2021-02-13T13:25:08.407562Z" modified="2021-02-13T13:25:09.797735Z" visited="2021-02-13T13:25:08.407567Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;libreoffice --writer %U&apos;" modified="2021-02-13T13:25:08.407583Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.1" exec="&apos;soffice %u&apos;" modified="2021-02-13T13:25:09.797733Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/linux/qbittorrent-vpn-enable" added="2021-02-13T13:25:17.330074Z" modified="2021-02-13T13:25:17.330106Z" visited="2021-02-13T13:25:17.330081Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-13T13:25:17.330090Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/linux/repair%20flatpak%20button" added="2021-02-13T13:25:37.241136Z" modified="2021-02-13T13:25:37.241163Z" visited="2021-02-13T13:25:37.241138Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-13T13:25:37.241144Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/linux/vbox-shared-folders-setup" added="2021-02-13T13:26:03.034436Z" modified="2021-02-13T13:26:03.034464Z" visited="2021-02-13T13:26:03.034438Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-13T13:26:03.034450Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/linux/vlc-looks-too-big" added="2021-02-13T13:26:18.749255Z" modified="2021-02-13T13:26:18.749286Z" visited="2021-02-13T13:26:18.749263Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-13T13:26:18.749272Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/linux/arcolinux/arch-terminal-commands.ods" added="2021-02-13T13:29:51.290837Z" modified="2021-02-13T13:29:52.669463Z" visited="2021-02-13T13:29:51.290838Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.spreadsheet"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;libreoffice --calc %U&apos;" modified="2021-02-13T13:29:51.290839Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.1" exec="&apos;soffice %u&apos;" modified="2021-02-13T13:29:52.669462Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/linux/arcolinux/change-vbm-alias" added="2021-02-13T13:31:13.868412Z" modified="2021-02-13T13:31:13.868420Z" visited="2021-02-13T13:31:13.868413Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-13T13:31:13.868415Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/linux/arcolinux/keyboard-shortcuts" added="2021-02-13T13:31:47.546291Z" modified="2021-02-13T13:31:47.546327Z" visited="2021-02-13T13:31:47.546298Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-13T13:31:47.546310Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/linux/arcolinux/keyring-popup" added="2021-02-13T13:32:18.086537Z" modified="2021-02-13T13:32:18.086569Z" visited="2021-02-13T13:32:18.086544Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-13T13:32:18.086550Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/linux/arcolinux/lock-screen-before-sleep" added="2021-02-13T13:32:58.768500Z" modified="2021-02-13T13:32:58.768532Z" visited="2021-02-13T13:32:58.768505Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-13T13:32:58.768515Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/linux/arcolinux/modify-package-database" added="2021-02-13T13:33:17.082639Z" modified="2021-02-13T13:33:17.082648Z" visited="2021-02-13T13:33:17.082640Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-13T13:33:17.082643Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/linux/arcolinux/my-arcolinux-install-process" added="2021-02-13T13:35:25.907559Z" modified="2021-02-13T13:35:25.907591Z" visited="2021-02-13T13:35:25.907568Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-13T13:35:25.907578Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/linux/arcolinux/my-arcolinux-install-process-vbox-copy" added="2021-02-13T13:36:25.983655Z" modified="2021-02-13T13:36:25.983683Z" visited="2021-02-13T13:36:25.983657Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-13T13:36:25.983664Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/linux/arcolinux/skel" added="2021-02-13T13:41:26.711049Z" modified="2021-02-13T13:41:26.711097Z" visited="2021-02-13T13:41:26.711056Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-13T13:41:26.711091Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/linux/arcolinux/start-bluetooth" added="2021-02-13T13:44:25.599237Z" modified="2021-02-13T13:44:25.599266Z" visited="2021-02-13T13:44:25.599245Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-13T13:44:25.599252Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/linux/arcolinux/system-cleanup" added="2021-02-13T13:45:55.920861Z" modified="2021-02-13T13:45:55.920895Z" visited="2021-02-13T13:45:55.920869Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-13T13:45:55.920881Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/linux/git/git%20commands" added="2021-02-13T13:46:44.354766Z" modified="2021-02-13T13:46:44.354803Z" visited="2021-02-13T13:46:44.354771Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-13T13:46:44.354785Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/linux/mint/automate-mint-updates" added="2021-02-13T13:49:40.352930Z" modified="2021-02-13T13:49:40.352971Z" visited="2021-02-13T13:49:40.352937Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-13T13:49:40.352951Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/linux/mint/my-linux-mint-setup/linux-mint-setup.ods" added="2021-02-13T13:50:20.150482Z" modified="2021-02-13T13:50:21.441221Z" visited="2021-02-13T13:50:20.150487Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.spreadsheet"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;libreoffice --calc %U&apos;" modified="2021-02-13T13:50:20.150500Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.1" exec="&apos;soffice %u&apos;" modified="2021-02-13T13:50:21.441220Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/linux/samba/smb.conf.template" added="2021-02-13T13:52:04.980969Z" modified="2021-02-13T13:52:04.980980Z" visited="2021-02-13T13:52:04.980970Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-13T13:52:04.980972Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/.local/share/meld/recent-4v1doxfm.meldcmp" added="2021-02-13T13:52:52.261247Z" modified="2021-02-13T13:52:52.261251Z" visited="2021-02-13T13:52:52.261248Z">
+    <title>my-arcolinux-install-process-vbox : my-arcolinux-install-process-vbox-copy</title>
+    <desc>File comparison
+file:///home/brett/Documents/linux/arcolinux/my-arcolinux-install-process-vbox, file:///home/brett/Documents/linux/arcolinux/my-arcolinux-install-process-vbox-copy</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-meld-comparison"/>
+        <bookmark:applications>
+          <bookmark:application name="Meld" exec="&apos;/usr/bin/meld --comparison-file %u&apos;" modified="2021-02-13T13:52:52.261249Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/DATA/arco-xfce-brett/Personal/samba/samba-install" added="2021-02-13T13:55:19.941598Z" modified="2021-02-13T13:55:19.941630Z" visited="2021-02-13T13:55:19.941602Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="nemo" exec="&apos;subl3 %F&apos;" modified="2021-02-13T13:55:19.941613Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/linux/correct-software-rendering-in-virtualbox.pdf" added="2021-02-14T05:50:50.017127Z" modified="2021-02-14T05:50:50.701272Z" visited="2021-02-14T05:50:50.017128Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.1" exec="&apos;soffice %u&apos;" modified="2021-02-14T05:50:50.701270Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Github/arco-xfce-brett/AUR/diodon.sh" added="2021-02-14T06:14:57.019013Z" modified="2021-02-14T06:14:57.019025Z" visited="2021-02-14T06:14:57.019015Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl3 %u&apos;" modified="2021-02-14T06:14:57.019019Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Github/arco-xfce-brett/110-install-core-software-v3.sh.old" added="2021-02-14T06:58:19.615645Z" modified="2021-02-14T06:58:19.615658Z" visited="2021-02-14T06:58:19.615647Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-trash"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl3 %u&apos;" modified="2021-02-14T06:58:19.615652Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Github/personal%20settings" added="2021-02-14T07:14:29.374759Z" modified="2021-02-14T07:25:03.881879Z" visited="2021-02-14T07:14:29.374759Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="grsync" exec="&apos;grsync %u&apos;" modified="2021-02-14T07:14:29.374760Z" count="1"/>
+          <bookmark:application name="github-desktop" exec="&apos;github-desktop %u&apos;" modified="2021-02-14T07:25:03.881877Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/.local" added="2021-02-14T07:15:25.401316Z" modified="2021-02-14T07:15:25.401319Z" visited="2021-02-14T07:15:25.401317Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="grsync" exec="&apos;grsync %u&apos;" modified="2021-02-14T07:15:25.401317Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/.ssh" added="2021-02-14T07:18:33.359407Z" modified="2021-02-14T07:18:33.359410Z" visited="2021-02-14T07:18:33.359408Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="grsync" exec="&apos;grsync %u&apos;" modified="2021-02-14T07:18:33.359409Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Github/personal-settings" added="2021-02-14T07:26:26.711939Z" modified="2021-02-16T08:46:50.284150Z" visited="2021-02-14T07:26:26.711939Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="github-desktop" exec="&apos;github-desktop %u&apos;" modified="2021-02-16T08:46:50.284149Z" count="6"/>
+          <bookmark:application name="grsync" exec="&apos;grsync %u&apos;" modified="2021-02-16T06:26:55.479379Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/.bin-personal/personal-settings-github" added="2021-02-14T09:31:56.521213Z" modified="2021-02-14T09:31:56.521223Z" visited="2021-02-14T09:31:56.521215Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl3 %u&apos;" modified="2021-02-14T09:31:56.521218Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/linux/arcolinux/systemd-timer-bakups/personal-settings-github.service" added="2021-02-14T09:34:57.146868Z" modified="2021-02-14T09:34:57.146873Z" visited="2021-02-14T09:34:57.146869Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dbus-service"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl3 %u&apos;" modified="2021-02-14T09:34:57.146871Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/linux/arcolinux/systemd-timer-bakups/personal-settings-github.timer" added="2021-02-14T09:39:25.141139Z" modified="2021-02-14T09:39:25.141143Z" visited="2021-02-14T09:39:25.141140Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-systemd-unit"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl3 %u&apos;" modified="2021-02-14T09:39:25.141141Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Downloads/OSes/arcolinuxb-xfce-v20.7.5.iso" added="2021-02-14T13:13:15.420113Z" modified="2021-02-14T13:13:15.420127Z" visited="2021-02-14T13:13:15.420115Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="VirtualBox" exec="&apos;VirtualBox %u&apos;" modified="2021-02-14T13:13:15.420120Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Downloads/OSes/arcolinuxd-v21.03.1-x86_64.iso" added="2021-02-14T13:27:25.511993Z" modified="2021-02-14T13:27:25.512006Z" visited="2021-02-14T13:27:25.511995Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="VirtualBox" exec="&apos;VirtualBox %u&apos;" modified="2021-02-14T13:27:25.512000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/brett/config-bak" added="2021-02-14T14:39:42.923696Z" modified="2021-02-14T14:39:42.923699Z" visited="2021-02-14T14:39:42.923696Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="grsync" exec="&apos;grsync %u&apos;" modified="2021-02-14T14:39:42.923697Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/.local/share/meld/recent-8xyjnz85.meldcmp" added="2021-02-14T22:56:33.455568Z" modified="2021-02-14T22:56:33.455573Z" visited="2021-02-14T22:56:33.455569Z">
+    <title>[home] .config : [etc] .config</title>
+    <desc>Folder comparison
+file:///home/brett/.config, file:///etc/skel/.config</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-meld-comparison"/>
+        <bookmark:applications>
+          <bookmark:application name="Meld" exec="&apos;/usr/bin/meld --comparison-file %u&apos;" modified="2021-02-14T22:56:33.455571Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/.local/share/meld/recent-zmvvejft.meldcmp" added="2021-02-15T00:02:58.490020Z" modified="2021-02-15T00:02:58.490024Z" visited="2021-02-15T00:02:58.490021Z">
+    <title>.skel-backup-2021.02.15-07.00.05 : .skel-backup-2021.02.15-07.02.35</title>
+    <desc>Folder comparison
+file:///home/brett/.skel-backup-2021.02.15-07.00.05, file:///home/brett/.skel-backup-2021.02.15-07.02.35</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-meld-comparison"/>
+        <bookmark:applications>
+          <bookmark:application name="Meld" exec="&apos;/usr/bin/meld --comparison-file %u&apos;" modified="2021-02-15T00:02:58.490022Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_brett0/15_02_2021_70100914351064.pdf" added="2021-02-15T00:30:45.869882Z" modified="2021-02-15T00:30:45.869886Z" visited="2021-02-15T00:30:45.869882Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-02-15T00:30:45.869884Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Pictures/arch-backgrounds/arch-linux-1366x768.png" added="2021-02-15T10:18:54.216755Z" modified="2021-02-15T10:18:54.216761Z" visited="2021-02-15T10:18:54.216756Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-02-15T10:18:54.216758Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Downloads/output-onlinepngtools.png" added="2021-02-15T10:19:47.500770Z" modified="2021-02-15T10:19:47.500776Z" visited="2021-02-15T10:19:47.500770Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-02-15T10:19:47.500772Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/.config/autostart" added="2021-02-16T06:26:25.721381Z" modified="2021-02-16T06:35:53.368222Z" visited="2021-02-16T06:26:25.721381Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="grsync" exec="&apos;grsync %u&apos;" modified="2021-02-16T06:35:53.368218Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brett/Documents/linux/arcolinux/systemd-timer-bakups/config-autostart-copy-github.service" added="2021-02-16T08:10:12.549749Z" modified="2021-02-16T08:10:12.549761Z" visited="2021-02-16T08:10:12.549751Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-dbus-service"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl3 %u&apos;" modified="2021-02-16T08:10:12.549755Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
