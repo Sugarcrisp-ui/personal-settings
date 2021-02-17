@@ -1,9 +1,0 @@
-19:37:14.018 [main] INFO  org.cryptomator.launcher.Cryptomator - Starting Cryptomator 1.5.12 on Linux 5.4.97-1-lts (amd64)
-19:37:14.285 [JavaFX Application Thread] INFO  o.c.ui.launcher.FxApplicationStarter - JavaFX Runtime started.
-19:37:15.545 [JavaFX Application Thread] WARN  o.cryptomator.ui.fxapp.FxApplication - has visible stages: true
-19:37:22.573 [JavaFX Application Thread] INFO  o.cryptomator.ui.fxapp.UpdateChecker - Current version: 1.5.12, lastest version: 1.5.12
-19:37:41.331 [App Background Thread 004] INFO  o.c.ui.unlock.UnlockWorkflow - Unlock of 'Vault' succeeded.
-19:37:59.314 [App Scheduled Executor 01] INFO  o.c.common.settings.SettingsProvider - Settings saved to /home/brett/.config/Cryptomator/settings.json
-19:38:09.793 [JavaFX Application Thread] INFO  org.cryptomator.ui.lock.LockWorkflow - Lock of Vault succeeded.
-19:38:16.583 [JavaFX Application Thread] WARN  o.cryptomator.ui.fxapp.FxApplication - has visible stages: false
-19:38:16.584 [main] INFO  org.cryptomator.launcher.Cryptomator - UI shut down
