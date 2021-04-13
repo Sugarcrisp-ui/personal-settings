@@ -2,8 +2,16 @@
 # .bashrc file when it is updated.  This prevents my settings from being
 # lost or overwriten
 
+# Set PATH so it includes my personal bin folder
+if [ -d ${HOME}/.bin-personal ] ; then 
+	PATH="${HOME}"/.bin-personal:"${PATH}"
+fi
+
 # bashup reloads the .bashrc to update any changes without having to reboot.
 alias bashup='source ~/.bashrc'
+
+#copy/paste all content of /etc/skel over to home folder - backup of config created - beware
+alias skel='cp -Rf ~/.config ~/.config-backup-$(date +%Y.%m.%d-%H.%M.%S) && cp -Rf ~/.local ~/.local-backup-$(date +%Y.%m.%d-%H.%M.%S) && cp ~/.bashrc ~/.bashrc-backup-$(date +%Y.%m.%d-%H.%M.%S) && cp ~/.gtkrc-2.0 ~/.gtkrc-2.0-backup-$(date +%Y.%m.%d-%H.%M.%S) && cp -rf /etc/skel/* ~'
 
 # update pacman and yay
 alias update='sudo pacman -Syu && yay -Syu --noconfirm'
@@ -14,10 +22,20 @@ alias buplocal='cp -Rf ~/.local ~/.local-backup-$(date +%Y.%m.%d-%H.%M.%S)'
 # provide system information
 alias sysinfo='inxi -Fxxxrz'
 
+# Needed to create an alias for grub-customizer to run it with gksu instead of pkexec
+#alias grub-customizer='gksu grub-customizer'
+
 # ssh agent
 alias ssha='eval &(ssh-agent) && ssh-add'
 
 # Reinstall usb wifi driver
 alias wifi='cd /home/brett/src/8821au/ && sudo ./remove-driver.sh && sudo ./install-driver.sh && bashup && sr'
 
+# Enable powerline
+powerline-daemon -q
+POWERLINE_BASH_CONTINUATION=1
+POWERLINE_BASH_SELECT=1
+. /usr/share/powerline/bindings/bash/powerline.sh
+
 # paru is an alternative to yay (and pacman).  It can also be used instead of update.
+
