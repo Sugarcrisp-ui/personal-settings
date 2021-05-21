@@ -14,7 +14,7 @@ wmctrl -s 2
 # Open Terminal
 exo-open --launch TerminalEmulator --fullscreen
 
-sleep 0.2
+sleep 0.4
 
 # Switch to Desktop 0
 wmctrl -s 0
