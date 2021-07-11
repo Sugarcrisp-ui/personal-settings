@@ -8,6 +8,7 @@ rsync -r -t -p -o -g -v --progress -s /home/brett/.local/share/ice/ /home/brett/
 
 rsync -r -t -p -o -g -v --progress -s /home/brett/.ssh/ /home/brett/Github/personal-settings/.ssh --delete
 
+# Appimages is too big for upload to Github
 #rsync -r -t -p -o -g -v --progress -s /home/brett/Appimages/ /home/brett/Github/personal-settings/Appimages --delete
 
 rsync -r -t -p -o -g -v --progress -s /home/brett/.config/Cryptomator/ /home/brett/Github/personal-settings/.config/Cryptomator --delete
