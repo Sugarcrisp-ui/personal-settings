@@ -1,0 +1,2 @@
+https:pps.whatsapp.net:443:.:^partitionKey=%28https%2Cwhatsapp.com%29:3	0	18823	https:pps.whatsapp.net:443:pps.whatsapp.net:443::n:1626338029:h3-29:n:1626337962:n:^partitionKey=%28https%2Cwhatsapp.com%29:|n:y:
+https:safebrowsing.googleapis.com:443:.:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:3	0	18823	https:safebrowsing.googleapis.com:443:safebrowsing.googleapis.com:443::n:1626339831:h3:n:1626338041:n:^firstPartyDomain=safebrowsing.86868755-6b82-4842-b301-72671a0db32e.mozilla:|n:y:

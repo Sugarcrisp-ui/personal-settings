@@ -392,6 +392,11 @@ exec --no-startup-id i3-msg 'workspace 3; exec xfce4-terminal'
 #text-editor
 exec --no-startup-id i3-msg 'workspace 4; exec subl'
 
+
+# NO SPECIFIC WORKSPACE
+
+
+
 # TRAY APPLICATIONS
 
 # applications that are not installed will not start

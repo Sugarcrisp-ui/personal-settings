@@ -1,5 +1,5 @@
 favorites=sddm-config-editor.desktop,netflix.desktop,org.gnome.meld.desktop,authy.desktop,bitwarden.desktop,caprine.desktop,install4j_th6qku-tws.desktop
-recent=arcolinux-tweak-tool.desktop,caprine.desktop,github-desktop.desktop,grsync.desktop,ranger.desktop,xfce4-screenshooter.desktop,insync.desktop,org.gnome.DiskUtility.desktop,xfce-keyboard-settings.desktop,xfce-display-settings.desktop
+recent=github-desktop.desktop,sddm-config-editor.desktop,arcolinux-tweak-tool.desktop,caprine.desktop,grsync.desktop,ranger.desktop,xfce4-screenshooter.desktop,insync.desktop,org.gnome.DiskUtility.desktop,xfce-keyboard-settings.desktop
 button-title=ArcoLinux\ \ 
 button-icon=start-here-arcolinux
 button-single-row=false

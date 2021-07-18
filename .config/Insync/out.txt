@@ -7555,3 +7555,239 @@ Fontconfig warning: "/usr/share/fontconfig/conf.avail/05-reset-dirs-sample.conf"
 (process:1633): GLib-GIO-CRITICAL **: 23:12:55.837: _g_file_info_get_attribute_value: assertion 'G_IS_FILE_INFO (info)' failed
 
 (process:1633): GLib-GIO-CRITICAL **: 23:12:55.837: _g_file_info_get_attribute_value: assertion 'G_IS_FILE_INFO (info)' failed
+The X11 connection broke (error 1). Did the X11 server die?
+Gtk-Message: 20:32:49.190: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 20:32:49.190: Failed to load module "xapp-gtk3-module"
+Gtk-Message: 20:32:49.190: Failed to load module "canberra-gtk-module"
+Gtk-Message: 20:32:49.190: Failed to load module "canberra-gtk-module"
+QXcbIntegration: Cannot create platform OpenGL context, neither GLX nor EGL are enabled
+/usr/lib/gvfs/libgvfscommon.so: undefined symbol: g_task_set_name
+Failed to load module: /usr/lib/gio/modules/libgvfsdbus.so
+WARNING:root:While reading /home/brett/.config/mimeapps.list
+Traceback (most recent call last):
+  File "idesklinux/application_manager.py", line 53, in __index_default_apps
+  File "configparser.py", line 696, in read
+  File "configparser.py", line 1091, in _read
+configparser.DuplicateOptionError: While reading from '/home/brett/.config/mimeapps.list' [line 32]: option 'application/x-iwork-keynote-sffkey' in section 'Added Associations' already exists
+WARNING:root:While reading /home/brett/.config/mimeapps.list
+Traceback (most recent call last):
+  File "idesklinux/application_manager.py", line 70, in __index_apps_for_mimetypes
+  File "configparser.py", line 696, in read
+  File "configparser.py", line 1091, in _read
+configparser.DuplicateOptionError: While reading from '/home/brett/.config/mimeapps.list' [line 32]: option 'application/x-iwork-keynote-sffkey' in section 'Added Associations' already exists
+WebEngineContext used before QtWebEngine::initialize() or OpenGL context creation failed.
+Fontconfig warning: "/usr/share/fontconfig/conf.avail/05-reset-dirs-sample.conf", line 6: unknown element "reset-dirs"
+js: Uncaught (in promise) #<Object>
+js: Uncaught (in promise) #<Object>
+Gdk-Message: 21:38:18.139: insync: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+
+QXcbIntegration: Cannot create platform OpenGL context, neither GLX nor EGL are enabled
+WARNING:root:While reading /home/brett/.config/mimeapps.list
+Traceback (most recent call last):
+  File "idesklinux/application_manager.py", line 53, in __index_default_apps
+  File "configparser.py", line 696, in read
+  File "configparser.py", line 1091, in _read
+configparser.DuplicateOptionError: While reading from '/home/brett/.config/mimeapps.list' [line 32]: option 'application/x-iwork-keynote-sffkey' in section 'Added Associations' already exists
+WARNING:root:While reading /home/brett/.config/mimeapps.list
+Traceback (most recent call last):
+  File "idesklinux/application_manager.py", line 70, in __index_apps_for_mimetypes
+  File "configparser.py", line 696, in read
+  File "configparser.py", line 1091, in _read
+configparser.DuplicateOptionError: While reading from '/home/brett/.config/mimeapps.list' [line 32]: option 'application/x-iwork-keynote-sffkey' in section 'Added Associations' already exists
+WebEngineContext used before QtWebEngine::initialize() or OpenGL context creation failed.
+Fontconfig warning: "/usr/share/fontconfig/conf.avail/05-reset-dirs-sample.conf", line 6: unknown element "reset-dirs"
+js: Uncaught (in promise) #<Object>
+js: Uncaught (in promise) #<Object>
+QXcbIntegration: Cannot create platform OpenGL context, neither GLX nor EGL are enabled
+WARNING:root:While reading /home/brett/.config/mimeapps.list
+Traceback (most recent call last):
+  File "idesklinux/application_manager.py", line 53, in __index_default_apps
+  File "configparser.py", line 696, in read
+  File "configparser.py", line 1091, in _read
+configparser.DuplicateOptionError: While reading from '/home/brett/.config/mimeapps.list' [line 32]: option 'application/x-iwork-keynote-sffkey' in section 'Added Associations' already exists
+WARNING:root:While reading /home/brett/.config/mimeapps.list
+Traceback (most recent call last):
+  File "idesklinux/application_manager.py", line 70, in __index_apps_for_mimetypes
+  File "configparser.py", line 696, in read
+  File "configparser.py", line 1091, in _read
+configparser.DuplicateOptionError: While reading from '/home/brett/.config/mimeapps.list' [line 32]: option 'application/x-iwork-keynote-sffkey' in section 'Added Associations' already exists
+WebEngineContext used before QtWebEngine::initialize() or OpenGL context creation failed.
+Fontconfig warning: "/usr/share/fontconfig/conf.avail/05-reset-dirs-sample.conf", line 6: unknown element "reset-dirs"
+js: Uncaught (in promise) #<Object>
+js: Uncaught (in promise) #<Object>
+QXcbIntegration: Cannot create platform OpenGL context, neither GLX nor EGL are enabled
+WARNING:root:While reading /home/brett/.config/mimeapps.list
+Traceback (most recent call last):
+  File "idesklinux/application_manager.py", line 53, in __index_default_apps
+  File "configparser.py", line 696, in read
+  File "configparser.py", line 1091, in _read
+configparser.DuplicateOptionError: While reading from '/home/brett/.config/mimeapps.list' [line 32]: option 'application/x-iwork-keynote-sffkey' in section 'Added Associations' already exists
+WARNING:root:While reading /home/brett/.config/mimeapps.list
+Traceback (most recent call last):
+  File "idesklinux/application_manager.py", line 70, in __index_apps_for_mimetypes
+  File "configparser.py", line 696, in read
+  File "configparser.py", line 1091, in _read
+configparser.DuplicateOptionError: While reading from '/home/brett/.config/mimeapps.list' [line 32]: option 'application/x-iwork-keynote-sffkey' in section 'Added Associations' already exists
+WebEngineContext used before QtWebEngine::initialize() or OpenGL context creation failed.
+Fontconfig warning: "/usr/share/fontconfig/conf.avail/05-reset-dirs-sample.conf", line 6: unknown element "reset-dirs"
+js: Uncaught (in promise) #<Object>
+js: Uncaught (in promise) #<Object>
+QXcbIntegration: Cannot create platform OpenGL context, neither GLX nor EGL are enabled
+WARNING:root:While reading /home/brett/.config/mimeapps.list
+Traceback (most recent call last):
+  File "idesklinux/application_manager.py", line 53, in __index_default_apps
+  File "configparser.py", line 696, in read
+  File "configparser.py", line 1091, in _read
+configparser.DuplicateOptionError: While reading from '/home/brett/.config/mimeapps.list' [line 32]: option 'application/x-iwork-keynote-sffkey' in section 'Added Associations' already exists
+WARNING:root:While reading /home/brett/.config/mimeapps.list
+Traceback (most recent call last):
+  File "idesklinux/application_manager.py", line 70, in __index_apps_for_mimetypes
+  File "configparser.py", line 696, in read
+  File "configparser.py", line 1091, in _read
+configparser.DuplicateOptionError: While reading from '/home/brett/.config/mimeapps.list' [line 32]: option 'application/x-iwork-keynote-sffkey' in section 'Added Associations' already exists
+WebEngineContext used before QtWebEngine::initialize() or OpenGL context creation failed.
+Fontconfig warning: "/usr/share/fontconfig/conf.avail/05-reset-dirs-sample.conf", line 6: unknown element "reset-dirs"
+js: Uncaught (in promise) #<Object>
+js: Uncaught (in promise) #<Object>
+QXcbIntegration: Cannot create platform OpenGL context, neither GLX nor EGL are enabled
+WARNING:root:While reading /home/brett/.config/mimeapps.list
+Traceback (most recent call last):
+  File "idesklinux/application_manager.py", line 53, in __index_default_apps
+  File "configparser.py", line 696, in read
+  File "configparser.py", line 1091, in _read
+configparser.DuplicateOptionError: While reading from '/home/brett/.config/mimeapps.list' [line 32]: option 'application/x-iwork-keynote-sffkey' in section 'Added Associations' already exists
+WARNING:root:While reading /home/brett/.config/mimeapps.list
+Traceback (most recent call last):
+  File "idesklinux/application_manager.py", line 70, in __index_apps_for_mimetypes
+  File "configparser.py", line 696, in read
+  File "configparser.py", line 1091, in _read
+configparser.DuplicateOptionError: While reading from '/home/brett/.config/mimeapps.list' [line 32]: option 'application/x-iwork-keynote-sffkey' in section 'Added Associations' already exists
+WebEngineContext used before QtWebEngine::initialize() or OpenGL context creation failed.
+Fontconfig warning: "/usr/share/fontconfig/conf.avail/05-reset-dirs-sample.conf", line 6: unknown element "reset-dirs"
+js: Uncaught (in promise) #<Object>
+js: Uncaught (in promise) #<Object>
+QXcbIntegration: Cannot create platform OpenGL context, neither GLX nor EGL are enabled
+WARNING:root:While reading /home/brett/.config/mimeapps.list
+Traceback (most recent call last):
+  File "idesklinux/application_manager.py", line 53, in __index_default_apps
+  File "configparser.py", line 696, in read
+  File "configparser.py", line 1091, in _read
+configparser.DuplicateOptionError: While reading from '/home/brett/.config/mimeapps.list' [line 32]: option 'application/x-iwork-keynote-sffkey' in section 'Added Associations' already exists
+WARNING:root:While reading /home/brett/.config/mimeapps.list
+Traceback (most recent call last):
+  File "idesklinux/application_manager.py", line 70, in __index_apps_for_mimetypes
+  File "configparser.py", line 696, in read
+  File "configparser.py", line 1091, in _read
+configparser.DuplicateOptionError: While reading from '/home/brett/.config/mimeapps.list' [line 32]: option 'application/x-iwork-keynote-sffkey' in section 'Added Associations' already exists
+WebEngineContext used before QtWebEngine::initialize() or OpenGL context creation failed.
+Fontconfig warning: "/usr/share/fontconfig/conf.avail/05-reset-dirs-sample.conf", line 6: unknown element "reset-dirs"
+js: Uncaught (in promise) #<Object>
+js: Uncaught (in promise) #<Object>
+QXcbIntegration: Cannot create platform OpenGL context, neither GLX nor EGL are enabled
+WARNING:root:While reading /home/brett/.config/mimeapps.list
+Traceback (most recent call last):
+  File "idesklinux/application_manager.py", line 53, in __index_default_apps
+  File "configparser.py", line 696, in read
+  File "configparser.py", line 1091, in _read
+configparser.DuplicateOptionError: While reading from '/home/brett/.config/mimeapps.list' [line 32]: option 'application/x-iwork-keynote-sffkey' in section 'Added Associations' already exists
+WARNING:root:While reading /home/brett/.config/mimeapps.list
+Traceback (most recent call last):
+  File "idesklinux/application_manager.py", line 70, in __index_apps_for_mimetypes
+  File "configparser.py", line 696, in read
+  File "configparser.py", line 1091, in _read
+configparser.DuplicateOptionError: While reading from '/home/brett/.config/mimeapps.list' [line 32]: option 'application/x-iwork-keynote-sffkey' in section 'Added Associations' already exists
+WebEngineContext used before QtWebEngine::initialize() or OpenGL context creation failed.
+Fontconfig warning: "/usr/share/fontconfig/conf.avail/05-reset-dirs-sample.conf", line 6: unknown element "reset-dirs"
+js: Uncaught (in promise) #<Object>
+js: Uncaught (in promise) #<Object>
+The X11 connection broke (error 1). Did the X11 server die?
+QXcbIntegration: Cannot create platform OpenGL context, neither GLX nor EGL are enabled
+WARNING:root:While reading /home/brett/.config/mimeapps.list
+Traceback (most recent call last):
+  File "idesklinux/application_manager.py", line 53, in __index_default_apps
+  File "configparser.py", line 696, in read
+  File "configparser.py", line 1091, in _read
+configparser.DuplicateOptionError: While reading from '/home/brett/.config/mimeapps.list' [line 32]: option 'application/x-iwork-keynote-sffkey' in section 'Added Associations' already exists
+WARNING:root:While reading /home/brett/.config/mimeapps.list
+Traceback (most recent call last):
+  File "idesklinux/application_manager.py", line 70, in __index_apps_for_mimetypes
+  File "configparser.py", line 696, in read
+  File "configparser.py", line 1091, in _read
+configparser.DuplicateOptionError: While reading from '/home/brett/.config/mimeapps.list' [line 32]: option 'application/x-iwork-keynote-sffkey' in section 'Added Associations' already exists
+WebEngineContext used before QtWebEngine::initialize() or OpenGL context creation failed.
+Fontconfig warning: "/usr/share/fontconfig/conf.avail/05-reset-dirs-sample.conf", line 6: unknown element "reset-dirs"
+js: Uncaught (in promise) #<Object>
+js: Uncaught (in promise) #<Object>
+QXcbIntegration: Cannot create platform OpenGL context, neither GLX nor EGL are enabled
+WARNING:root:While reading /home/brett/.config/mimeapps.list
+Traceback (most recent call last):
+  File "idesklinux/application_manager.py", line 53, in __index_default_apps
+  File "configparser.py", line 696, in read
+  File "configparser.py", line 1091, in _read
+configparser.DuplicateOptionError: While reading from '/home/brett/.config/mimeapps.list' [line 32]: option 'application/x-iwork-keynote-sffkey' in section 'Added Associations' already exists
+WARNING:root:While reading /home/brett/.config/mimeapps.list
+Traceback (most recent call last):
+  File "idesklinux/application_manager.py", line 70, in __index_apps_for_mimetypes
+  File "configparser.py", line 696, in read
+  File "configparser.py", line 1091, in _read
+configparser.DuplicateOptionError: While reading from '/home/brett/.config/mimeapps.list' [line 32]: option 'application/x-iwork-keynote-sffkey' in section 'Added Associations' already exists
+WebEngineContext used before QtWebEngine::initialize() or OpenGL context creation failed.
+Fontconfig warning: "/usr/share/fontconfig/conf.avail/05-reset-dirs-sample.conf", line 6: unknown element "reset-dirs"
+js: Uncaught (in promise) #<Object>
+js: Uncaught (in promise) #<Object>
+The X11 connection broke (error 1). Did the X11 server die?
+QXcbIntegration: Cannot create platform OpenGL context, neither GLX nor EGL are enabled
+WARNING:root:While reading /home/brett/.config/mimeapps.list
+Traceback (most recent call last):
+  File "idesklinux/application_manager.py", line 53, in __index_default_apps
+  File "configparser.py", line 696, in read
+  File "configparser.py", line 1091, in _read
+configparser.DuplicateOptionError: While reading from '/home/brett/.config/mimeapps.list' [line 32]: option 'application/x-iwork-keynote-sffkey' in section 'Added Associations' already exists
+WARNING:root:While reading /home/brett/.config/mimeapps.list
+Traceback (most recent call last):
+  File "idesklinux/application_manager.py", line 70, in __index_apps_for_mimetypes
+  File "configparser.py", line 696, in read
+  File "configparser.py", line 1091, in _read
+configparser.DuplicateOptionError: While reading from '/home/brett/.config/mimeapps.list' [line 32]: option 'application/x-iwork-keynote-sffkey' in section 'Added Associations' already exists
+WebEngineContext used before QtWebEngine::initialize() or OpenGL context creation failed.
+Fontconfig warning: "/usr/share/fontconfig/conf.avail/05-reset-dirs-sample.conf", line 6: unknown element "reset-dirs"
+js: Uncaught (in promise) #<Object>
+js: Uncaught (in promise) #<Object>
+
+** (process:1592): WARNING **: 10:55:01.124: Failed to load shared library 'libnotify.so.4' referenced by the typelib: /usr/lib/libgdk_pixbuf-2.0.so.0: undefined symbol: g_task_set_name
+QXcbIntegration: Cannot create platform OpenGL context, neither GLX nor EGL are enabled
+WARNING:root:While reading /home/brett/.config/mimeapps.list
+Traceback (most recent call last):
+  File "idesklinux/application_manager.py", line 53, in __index_default_apps
+  File "configparser.py", line 696, in read
+  File "configparser.py", line 1091, in _read
+configparser.DuplicateOptionError: While reading from '/home/brett/.config/mimeapps.list' [line 32]: option 'application/x-iwork-keynote-sffkey' in section 'Added Associations' already exists
+WARNING:root:While reading /home/brett/.config/mimeapps.list
+Traceback (most recent call last):
+  File "idesklinux/application_manager.py", line 70, in __index_apps_for_mimetypes
+  File "configparser.py", line 696, in read
+  File "configparser.py", line 1091, in _read
+configparser.DuplicateOptionError: While reading from '/home/brett/.config/mimeapps.list' [line 32]: option 'application/x-iwork-keynote-sffkey' in section 'Added Associations' already exists
+WebEngineContext used before QtWebEngine::initialize() or OpenGL context creation failed.
+Fontconfig warning: "/usr/share/fontconfig/conf.avail/05-reset-dirs-sample.conf", line 6: unknown element "reset-dirs"
+js: Uncaught (in promise) #<Object>
+js: Uncaught (in promise) #<Object>
+
+** (process:1929): WARNING **: 08:48:12.090: Failed to load shared library 'libnotify.so.4' referenced by the typelib: /usr/lib/libgdk_pixbuf-2.0.so.0: undefined symbol: g_task_set_name
+QXcbIntegration: Cannot create platform OpenGL context, neither GLX nor EGL are enabled
+WARNING:root:While reading /home/brett/.config/mimeapps.list
+Traceback (most recent call last):
+  File "idesklinux/application_manager.py", line 53, in __index_default_apps
+  File "configparser.py", line 696, in read
+  File "configparser.py", line 1091, in _read
+configparser.DuplicateOptionError: While reading from '/home/brett/.config/mimeapps.list' [line 32]: option 'application/x-iwork-keynote-sffkey' in section 'Added Associations' already exists
+WARNING:root:While reading /home/brett/.config/mimeapps.list
+Traceback (most recent call last):
+  File "idesklinux/application_manager.py", line 70, in __index_apps_for_mimetypes
+  File "configparser.py", line 696, in read
+  File "configparser.py", line 1091, in _read
+configparser.DuplicateOptionError: While reading from '/home/brett/.config/mimeapps.list' [line 32]: option 'application/x-iwork-keynote-sffkey' in section 'Added Associations' already exists
+WebEngineContext used before QtWebEngine::initialize() or OpenGL context creation failed.
+Fontconfig warning: "/usr/share/fontconfig/conf.avail/05-reset-dirs-sample.conf", line 6: unknown element "reset-dirs"
+js: Uncaught (in promise) #<Object>
+js: Uncaught (in promise) #<Object>

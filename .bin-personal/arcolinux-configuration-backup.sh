@@ -29,6 +29,8 @@ rsync -r -t -p -o -g -v --progress -s /home/brett/.config/i3/config /home/brett/
 
 rsync -r -t -p -o -g -v --progress -s /home/brett/.config/polybar/config /home/brett/.local/share/Cryptomator/mnt/Arcolinux/polybar/config --delete
 
+rsync -r -t -p -o -g -v --progress -s /home/brett/.config/variety/variety.conf /personal/.config/variety/variety.conf --delete
+
 rsync -r -t -p -o -g -v --progress -s /etc/udev/rules.d/10-wakeup.rules /home/brett/.local/share/Cryptomator/mnt/Arcolinux/10-wakeup.rules --delete
 
 rsync -r -t -p -o -g -v --progress -s /etc/rc.local /home/brett/.local/share/Cryptomator/mnt/Arcolinux/rc.local --delete
