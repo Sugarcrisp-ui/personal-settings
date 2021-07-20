@@ -12,5 +12,3 @@ rsync -r -t -p -o -g -v --progress -s /usr/share/sddm/themes/arcolinux-sugar-can
 
 rsync -r -t -p -o -g -v --progress -s /usr/share/sddm/themes/arcolinux-sugar-candy/theme.conf /home/brett/Github/personal-settings/arcolinux-sugar-candy/theme.conf --delete
 
-
-
